@@ -1,0 +1,6 @@
+[submodule "classes/DataHandler"]
+	path = classes/DataHandler
+	url = https://github.com/KiloSierraCharlie/VATSIM-Data-Handler
+[submodule "classes/EUD-DataHandler"]
+	path = classes/EUD-DataHandler
+	url = https://github.com/KiloSierraCharlie/VATEUD-Data-Handler.git
